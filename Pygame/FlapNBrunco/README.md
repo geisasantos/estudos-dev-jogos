@@ -2,6 +2,7 @@ Flap 'n' Brunco é uma tentativa de fazer um jogo ao estilo Flappy Bird.
 O código usado inicialmente é o da [Jéssica Dias](https://github.com/JessicaDias/FlapPyLadies), baseado no tutorial realizado na Python Brasil 12.
 
 Algumas melhorias e correções que serão feitas:
+
 1. Corrigir telas de início e game over;
 2. Corrigir imagem do background;
 3. Testar novas soluções para carregar o GIF (Pygame não suporta GIF - explicarei o que tentei na #Issue4)

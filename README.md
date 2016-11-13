@@ -1,2 +1,2 @@
 # estudos-dev-jogos
-Estudos em desenvolvimentos de jogos
+Estudos para desenvolvimento de jogos em linguagens que estou aprendendo: Python, Lua e Ruby.
